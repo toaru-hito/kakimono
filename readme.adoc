@@ -1,0 +1,10 @@
+= 書き物
+
+書き物置き場
+
+== ライセンス
+
+https://creativecommons.org/licenses/by-nc-sa/4.0[Creative Commons Attribution-NonCommercial-ShareAlike]
+
+[link=https://creativecommons.org/licenses/by-nc-sa/4.0]
+image::https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[]
